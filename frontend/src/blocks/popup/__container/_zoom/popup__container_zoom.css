@@ -1,0 +1,7 @@
+.popup__container_zoom {
+    display: flex;
+    max-width: 1280px;
+    width: fit-content;
+    flex-direction: column;
+    align-self: center;
+}

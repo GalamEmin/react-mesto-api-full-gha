@@ -1,0 +1,12 @@
+.register__form {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+
+@media all and (max-width: 768px) {
+  .register__form {
+    margin-top: 10px;
+  }
+}

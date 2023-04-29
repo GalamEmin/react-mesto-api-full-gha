@@ -1,0 +1,23 @@
+.header__text {
+  max-height: 22px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  cursor: pointer;
+  padding-top: 10px;
+}
+
+.header__text:hover {
+  opacity: 0.6;
+}
+
+@media all and (max-width: 768px) {
+  .header__text {
+    margin-right: 30px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+  }
+}

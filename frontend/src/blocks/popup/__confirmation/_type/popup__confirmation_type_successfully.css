@@ -1,0 +1,4 @@
+.popup__confirmation_type_successfully{
+    background-image: url('../../../../images/popup/GOOD.svg');
+    align-self: center;
+}

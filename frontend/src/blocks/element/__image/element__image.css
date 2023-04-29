@@ -1,0 +1,9 @@
+.element__image {
+    display: block;
+    width: 282px;
+    height: 282px;
+    object-fit: cover;
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 1);
+    color: rgba(255, 255, 255, 1);
+}

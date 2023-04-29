@@ -1,0 +1,9 @@
+.popup__name-zoom {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    color: rgba(255, 255, 255, 1);
+    align-self: start;
+}

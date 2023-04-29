@@ -1,0 +1,22 @@
+.register__question {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin-top: 15px;
+  margin-bottom: 0;
+  display: block;
+  text-decoration: none;
+}
+
+.register__question:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+@media all and (max-width: 768px) {
+  .register__question {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,13 @@
+.register {
+  max-width: 880px;
+  padding-top: 60px;
+  margin: auto auto;
+}
+
+@media all and (max-width: 768px) {
+  .register {
+    max-width: 260px;
+    padding-top: 40px;
+    margin: auto auto;
+  }
+}

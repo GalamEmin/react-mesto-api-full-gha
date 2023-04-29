@@ -1,0 +1,15 @@
+.footer {
+    max-width: 318px;
+    margin-left: 200px;
+    padding-top: 66px;
+    margin-bottom: 60px;
+}
+
+@media all and (max-width: 583px) {
+    .footer {
+        max-width: 282px;
+        padding-top: 48px;
+        padding-bottom: 36px;
+        margin: auto auto;
+   }
+  }

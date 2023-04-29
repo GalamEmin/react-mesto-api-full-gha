@@ -1,0 +1,4 @@
+.popup__confirmation_type_fail{
+    background-image: url('../../../../images/popup/FAIL.svg');
+    align-self: center;
+}
